@@ -32,7 +32,7 @@
 
 ## 📂 Top Projects  
 
-| [![Edupath](https://img.shields.io/badge/Edupath-0A66C2?style=for-the-badge&logo=github&logoColor=white)](https://malulekens.github.io/EduPath/) | [![Salesforce](https://img.shields.io/badge/Salesforce-FF6B6B?style=for-the-badge&logo=github&logoColor=white)](https://malulekens.github.io/Salesforce/) | [![Spelete](https://img.shields.io/badge/Spelete-32CD32?style=for-the-badge&logo=github&logoColor=white)](https://malulekens.github.io/Spelete/) | [![AfricanBank](https://img.shields.io/badge/AfricanBank-8A2BE2?style=for-the-badge&logo=github&logoColor=white)](https://malulekens.github.io/AfricanBank_Programme/) |
+| [![Edupath](https://img.shields.io/badge/Edupath-0A66C2?style=for-the-badge&logo=github&logoColor=white)](https://proedupath.com/) | [![Salesforce](https://img.shields.io/badge/Salesforce-FF6B6B?style=for-the-badge&logo=github&logoColor=white)](https://teksacrm.lovable.app/) | [![Spelete](https://img.shields.io/badge/Spelete-32CD32?style=for-the-badge&logo=github&logoColor=white)](https://spelete.lovable.app/) | [![AfricanBank](https://img.shields.io/badge/AfricanBank-8A2BE2?style=for-the-badge&logo=github&logoColor=white)](https://africanbank.lovable.app/) |
 |---|---|---|---|
 | AI-powered Education platform | CRM automation & integration | E-commerce online store | Bank SMME's and Start-Ups|
 | 🔗 [Repo](https://github.com/Newcayen-Maluleke/EduPath) <br> 🌍 [Live](https://proedupath.com/) | 🔗 [Repo](https://github.com/MalulekeNS/Salesforce) <br> 🌍 [Live](https://teksacrm.lovable.app/) | 🔗 [Repo](https://github.com/MalulekeNS/Spelete) <br> 🌍 [Live](https://spelete.lovable.app/) | 🔗 [Repo](https://github.com/MalulekeNS/AfricanBank_Programme) <br> 🌍 [Live](https://africanbank.lovable.app/) |
@@ -101,7 +101,7 @@
 </p>  
 
 ---
-## 🧮 Funding Readiness Scorecard
+## 🧮 Funding Readiness
 
 The Funding Readiness Scorecard provides an over view for the decision:
 
@@ -118,26 +118,6 @@ The Funding Readiness Scorecard provides an over view for the decision:
 
 ---
 
-### 🏦 Overall Funding Readiness Classification
-
-| Classification | Description |
-|---------------|------------|
-| **Funding Ready** | Institutionally sound, suitable for immediate funding consideration |
-| **Conditionally Ready** | Viable with targeted remediation actions |
-| **Not Funding Ready** | High institutional risk; requires material system development |
-
----
-
-### 📈 Portfolio Summary View
-
-| Company | Financial | Governance | Operations | Market | IT | Compliance | Overall Status |
-|-------|----------|------------|------------|--------|----|-----------|----------------|
-| Company A | 4 | 3 | 4 | 4 | 3 | 4 | Conditionally Ready |
-| Company B | 5 | 4 | 5 | 4 | 4 | 5 | Funding Ready |
-| Company C | 2 | 2 | 3 | 3 | 2 | 2 | Not Funding Ready |
-| Company D | 4 | 3 | 3 | 2 | 3 | 3 | Conditionally Ready |
-
----
 
 ## 🎓 Certifications  
 - To stay up-to-date with evolving emerging current technologies, I enroll myself certifications:
