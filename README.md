@@ -35,7 +35,7 @@
 | [![Edupath](https://img.shields.io/badge/Edupath-0A66C2?style=for-the-badge&logo=github&logoColor=white)](https://malulekens.github.io/EduPath/) | [![Salesforce](https://img.shields.io/badge/Salesforce-FF6B6B?style=for-the-badge&logo=github&logoColor=white)](https://malulekens.github.io/Salesforce/) | [![Spelete](https://img.shields.io/badge/Spelete-32CD32?style=for-the-badge&logo=github&logoColor=white)](https://malulekens.github.io/Spelete/) | [![AfricanBank](https://img.shields.io/badge/AfricanBank-8A2BE2?style=for-the-badge&logo=github&logoColor=white)](https://malulekens.github.io/AfricanBank_Programme/) |
 |---|---|---|---|
 | AI-powered Education platform | CRM automation & integration | E-commerce online store | Bank SMME's and Start-Ups|
-| 🔗 [Repo](https://github.com/MalulekeNS/EduPath) <br> 🌍 [Live](https://afbcrm.co.za/) | 🔗 [Repo](https://github.com/MalulekeNS/Salesforce) <br> 🌍 [Live](https://malulekens.github.io/Salesforce/) | 🔗 [Repo](https://github.com/MalulekeNS/Spelete) <br> 🌍 [Live](https://malulekens.github.io/Spelete/) | 🔗 [Repo](https://github.com/MalulekeNS/AfricanBank_Programme) <br> 🌍 [Live](https://malulekens.github.io/AfricanBank_Programme/) |
+| 🔗 [Repo](https://github.com/Newcayen-Maluleke/EduPath) <br> 🌍 [Live](https://proedupath.com/) | 🔗 [Repo](https://github.com/MalulekeNS/Salesforce) <br> 🌍 [Live](https://teksacrm.lovable.app/) | 🔗 [Repo](https://github.com/MalulekeNS/Spelete) <br> 🌍 [Live](https://spelete.lovable.app/) | 🔗 [Repo](https://github.com/MalulekeNS/AfricanBank_Programme) <br> 🌍 [Live](https://africanbank.lovable.app/) |
 
 
 ---
